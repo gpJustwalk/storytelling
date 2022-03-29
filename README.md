@@ -46,10 +46,10 @@ Autores:
 Incluir lista de personas del grupo 
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
-
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :woman: Solene Champion
+- :woman: Julia Garín
+- :woman: Andrea Mendoza
+- :woman: Emma Rios
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
@@ -57,7 +57,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Febrero, 202X
+Febrero, 2022
 
 Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
 Proyectos seleccionados de  [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
